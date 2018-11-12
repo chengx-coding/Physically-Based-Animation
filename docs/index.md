@@ -11,6 +11,6 @@ In this project, I would use the knowledge of Particle System, Springy Structure
 5. More springy or particle effects could be applied if time is sufficient.
 
 ## Reference
-1. Professor House's course website (https://people.cs.clemson.edu/~dhouse/courses/817/)
-2. Unity tutorial: Creating a Breakout Game (https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/creating-a-breakout-game)
+1. [Professor House's course website](https://people.cs.clemson.edu/~dhouse/courses/817/)
+2. [Unity tutorial: Creating a Breakout Game](https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/creating-a-breakout-game)
 
